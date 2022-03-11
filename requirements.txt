@@ -1,6 +1,6 @@
 matplotlib
 numpy
-splitfolders
+split-folders
 tensorflow
 urllib
 zipfile
