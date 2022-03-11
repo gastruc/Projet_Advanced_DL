@@ -1,0 +1,14 @@
+# Jupyter Notebook chepoints
+.ipynb_checkpoints
+
+# Data 
+data/
+
+#Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

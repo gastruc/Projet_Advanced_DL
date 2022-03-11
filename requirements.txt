@@ -1,0 +1,6 @@
+matplotlib
+numpy
+splitfolders
+tensorflow
+urllib
+zipfile
