@@ -14,5 +14,8 @@ Nous avons alors entraîné plusieurs modèles avec différentes stratégies afi
 - Réseaux siamois
 - Modèle CLIP par OpenAI (spécialisé dans le zero shot learning)
 
-| Tables | Are | Cool | |----------|:-------------:|------:| 
-| col 1 is| left-aligned | $1600 |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
