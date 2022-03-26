@@ -13,3 +13,5 @@ Nous avons alors entraîné plusieurs modèles avec différentes stratégies afi
 - Transfer learning à partir d'un EfficientNet
 - Réseaux siamois
 - Modèle CLIP par OpenAI (spécialisé dans le zero shot learning)
+
+| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
