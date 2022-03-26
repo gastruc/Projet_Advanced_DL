@@ -8,6 +8,7 @@ Pour ce projet, nous utiliserons la base LHI-Animal-Faces ( https://vcla.stat.uc
 Dans un premier temps, nous avons choisi 5 animaux "rares" dont nous conservons un unique cliché. (Les autres clichés de ces animaux serviront pour tester le modèle). Selon la stratégie, les 15 autres animaux peuvent servir ou non à préentrainer un modèle, afin de pouvoir exploitier un modèle spécialisé dans la détection d'animaux.
 
 Nous avons alors entraîné plusieurs modèles avec différentes stratégies afin d'évaluer et de comparer leur performance vis-à-vis de cette tâche de oneshot learning :
+- 1-NN
 - CNN simple
 - Transfer learning à partir d'un EfficientNet
 - Réseaux siamois
