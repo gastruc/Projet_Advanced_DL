@@ -14,7 +14,8 @@ Nous avons alors entraîné plusieurs modèles avec différentes stratégies afi
 - Réseaux siamois
 - Modèle CLIP par OpenAI (spécialisé dans le zero shot learning)
 
+#### Synthèse des résultats:
 
 | Model | 1-NN | CNN | Transfer Learning | Reseaux Siamois | CLIP |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Accuracy | 25,3% | Accuracy | 70% | Accuracy | 97% |
+| Accuracy | 25,3% | 40% | 70% | 35% | 97% |
