@@ -15,7 +15,6 @@ Nous avons alors entraîné plusieurs modèles avec différentes stratégies afi
 - Modèle CLIP par OpenAI (spécialisé dans le zero shot learning)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Model | 1-NN | CNN | Transfer Learning | Reseaux Siamois | CLIP |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Accuracy | 25,3% | Accuracy | 70% | Accuracy | 97% |
